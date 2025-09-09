@@ -7,7 +7,7 @@ The Problem:
 The company suffered from inefficient, siloed data processes using Excel, leading to inventory confusion and significant financial losses due to unreliable customer order forecasts. Customers would place large advance orders but only collect a fraction, causing massive overproduction.
 
 The Solution:
-I led the implementation of an integrated system using Google Workspace (Sheets and Forms) to create a single source of truth for all departmental data. A key innovation was introducing a payment-based order system that required customers to pre-pay for a significant portion of their order, directly tying production to financial commitment and eliminating forecasting guesswork.
+I led the implementation of an integrated system using Google Workspace (Sheets and Forms) to create a single source of entry for all departmental data. A key innovation was introducing a payment-based order system that required customers to pre-pay for a significant portion of their order, directly tying production to financial commitment and eliminating forecasting guesswork.
 
 Key Results:
 
